@@ -1,0 +1,17 @@
+{
+  "name": "czwebkrouzek",
+  "version": "0.1.0",
+  "description": "Materiály pro výuku programování webu - HTML, CSS a JavaScipt, se zaměřením na děti.",
+  "license": "Unlicense",
+  "homepage": "https://czwebkrouzek.github.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webkrouzek/webkrouzek.github.io.git"
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.0"
+  },
+  "scripts": {
+    "serve": "docsify serve"
+  }
+}
