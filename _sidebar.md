@@ -2,3 +2,4 @@
 * [Začátek](start.md)
 * [Výukové materiály](resources.md)
 * [Příklady](examples.md)
+* [Web hosting](hosting.md)
