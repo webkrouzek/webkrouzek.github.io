@@ -17,6 +17,8 @@ Výukové materiály zaměřené na děti nebo začátečníky.
   * Hodina kreslení kódem - výuka JavaScript kreslením na canvas.
 * [Akademie progamování - Kódování na doma](https://www.akademieprogramovani.cz/kodovani-na-doma/) - kurzy v sekci Lekce kódování.
 * [Web Design Tutorials - Kids](https://webdesign.tutsplus.com/cs/categories/kids) - základní kurzy přeložené do češtiny.
+* [Nela Hrabcová](https://hrabec.eu/nela/) - video seriál na HTML, CSS a JavaScript.
+* [Czechitas kurzy](https://www.czechitas.cz/online-kurzy-zdarma) - HTML a JavaScript, zdarma.
 * [Historie vzniku webu WWW](https://cs.wikipedia.org/wiki/World_Wide_Web).
 
 ## Anglicky
@@ -32,9 +34,13 @@ Výukové materiály zaměřené na děti nebo začátečníky.
 * [Codecademy Web Development](https://www.codecademy.com/learn/paths/web-development) - interaktivní, nutné vytvořit účet.
 * [freeCodeCamp](https://www.freecodecamp.org) - nutné vytvořit účet.
 * [SoloLearn](https://www.sololearn.com/Courses/) - interaktivní, nutné vytvořit účet.
-* [CodeBerry](https://codeberryschool.com/cz) - interaktivní, nutné vytvořit účet.
-* [Codecombat](https://codecombat.com/) - hra s výukou programování. Přepněte do JavaScriptu. První úroveň je možné hrát zdarma, další úrovně jsou placené.
+* [CodeBerry](https://codeberryschool.com) - interaktivní, nutné vytvořit účet.
 * [p5.js](https://p5js.org/) - knihovna pro kreslení v JavaScript se zaměřením na výuku.
+
+### Hry
+* [Grasshopper](https://grasshopper.app/) - výuka JavaScriptu formou hravých úkolů, nutné vytvořit účet.
+* [Codecombat](https://codecombat.com/) - hra s výukou programování. Přepněte do JavaScriptu. První úroveň je možné hrát zdarma, další úrovně jsou placené.
+* [Otto DIY Games](https://www.ottodiy.com/games) - plnění úkolů, podobné Hour of Code. Bloky nebo JavaScript (i Python).
 
 ## Web IDE
 Nástroje pro tvorbu kódu v prohlížeči, sdílení kódu.
@@ -46,3 +52,4 @@ Nástroje pro tvorbu kódu v prohlížeči, sdílení kódu.
 * [Lineweave](https://liveweave.com/) - další klasický fiddle.
 * [CodePen](https://codepen.io) - sdílení web kódu, včetně složitějších projektů.
 * [CodeSandbox](https://codesandbox.io/) - prostředí podobné Visual Studio code.
+* http://kod.djpw.cz/ - jednoduché, ale hezké fiddle česky.

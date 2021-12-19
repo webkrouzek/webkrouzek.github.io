@@ -7,4 +7,5 @@ Web hosting zdarma nebo za výhodné ceny pro výuku. Hosting má možnost pří
 
 ## Svět
 
-* [Netlify](https://www.netlify.com/), [ZEIT](https://zeit.co) a [Surge](https://surge.sh/) jsou statické CDN hostingy s free programem. Deployment ovšem bývá vlastní, např. přes `npm`.
+* [neocities](https://neocities.org/) - web hosting zdarma, web editor, bez reklam.
+* [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/) a [Surge](https://surge.sh/) jsou statické CDN hostingy s free programem. Deployment ovšem bývá vlastní, např. přes `npm`.
